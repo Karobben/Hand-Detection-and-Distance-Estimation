@@ -5,6 +5,23 @@ Uses Tensorflow Object Detection API to detect and track hands in real-time, as 
 
 ## Getting Started
 
+# This repository is fork from Pablo Vela(pablovela5620)
+please go to here and checking for more.
+
+https://github.com/pablovela5620/Hand-Detection-and-Distance-Estimation
+
+I coorected some errors due to TF out of date.
+
+you can fork the origin one and run in conda virtual enviroment
+
+or you can download this version with tensorflow 2.1.0 environment.
+
+
+Enjoy ~
+
+
+
+
 ### Prerequisites
 This projects requires that you have [Anaconda](https://www.anaconda.com/download/#linux) installed to get the development enviroment installed
 
